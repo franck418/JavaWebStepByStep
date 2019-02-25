@@ -1,0 +1,13 @@
+# JavaWebStepByStep
+
+最简单的web程序，只需要一个html页面和一个web服务器。JavaWeb程序一般使用tomcat。完成一个最简单的web程序只需要以下步骤：
+
+1 编写一个html页面。
+
+2 将页面部署到tomcat里面去
+
+3 启动tomcat
+
+这样就完成了一个最简单的web程序，这个程序只展示一个html页面的功能，没有任何的交互。
+
+
