@@ -17,6 +17,8 @@
 
 1 新建一个JavaWeb项目。
 
+![创建项目](/img/1.png)
+
 2 在IDEA里面配置一个tomcat
 
 3 将项目打包（在设置里面用项目添加一个artifacts）
