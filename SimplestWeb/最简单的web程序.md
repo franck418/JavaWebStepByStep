@@ -13,7 +13,23 @@
 
 
 
-使用IDEA开发这个程序的步骤是。
+使用IDEA开发这个程序的步骤是:
 
-1 新建一个JavaWeb项目。 IDEA会自动创建如下的项目结构。
+1 新建一个JavaWeb项目。
+
+2 在IDEA里面配置一个tomcat
+
+3 将项目打包（在设置里面用项目添加一个artifacts）
+
+4 配置tomcat部署对应的artifacts
+
+5 启动tomcat 。
+
+启动成功后，在浏览器内就可以通过地址访问项目了。
+
+为了简化这个步骤，SpringBoot诞生了。 SpringBoot内置了Tomcat。只需要编写好代码，然后启动对应的启动类，就可以访问到项目了。
+
+关于SpringBoot，后面再详细说明。
+
+
 
