@@ -17,7 +17,7 @@
 
 1 新建一个JavaWeb项目。
 
-![创建项目](/img/1.png)
+![创建项目](img/1.png)
 
 2 在IDEA里面配置一个tomcat
 
